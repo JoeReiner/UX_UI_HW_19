@@ -29,7 +29,10 @@ nav{
     font-family: 'Montserrat';
     font-size: 32px;
     font-weight: 200px;
+}
 
+.button{
+    color:#1E57E4;
 }
 
 .logo_container h1 span{
