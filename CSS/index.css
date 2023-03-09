@@ -118,6 +118,7 @@ footer{
 .inner_footer{
     display: flex;
     justify-content: space-between;  
+    width: 100%;
 }
 
 .logo_container img{
